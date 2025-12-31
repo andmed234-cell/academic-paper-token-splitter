@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF for better academic PDF extraction
+import fitz
 import tiktoken
 import re
 import time
